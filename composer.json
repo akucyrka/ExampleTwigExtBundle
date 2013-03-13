@@ -1,5 +1,5 @@
 {
-    "name": "akucyrka/example-twig-ext-bundle",
+    "name": "akucyrka/twig-ext-bundle",
     "type": "symfony-bundle",
     "description": "Menu...",
     "keywords": [],
